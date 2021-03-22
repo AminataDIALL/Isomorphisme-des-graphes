@@ -1,0 +1,9 @@
+Si C Ge Sn Zr Pb Ta Th
+Al As B N P Sb Bi Ce Eu Ga Gd In
+O Ba Be Mg Ca Sr Ra Zn S Se Te Cu Ag Au Cd Hg
+At Li Na K Rb Cs F Cl Br I X
+* ? ACP R R# R1 R2 R3 R4
+Os Ru
+A A1+ A1- A2+ A3+ A4+ A4- A5+ A6+ e e1+ e1- Am Fr Yb hv Xe Rn Kr Ar Ne He Po Ac Bh Bk Cf Cm Cn D Db Ds Dy Er Es Fm Hf Ho Hs La Lr Lu Md Mt Mu Nb Nd No Np Pm Pr Ps Pu Rb Rf Rg Sc Sg Sm Tb Tm Y Mu-
+Co Rh Ir Cr Mo W Fe Mn Tc Re Ni Pa Pt Pd Ti Tl V U
+0
